@@ -1,0 +1,30 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos compilados
+*.pyc
+__pycache__/
+
+# Paquetes
+build/
+dist/
+*.egg-info/
+
+# Configuraciones del editor
+.vscode/
+.idea/
+
+# Archivos de registro y bases de datos
+*.log
+*.sqlite3
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Herramientas específicas
+.pytest_cache/
+.mypy_cache/
+
